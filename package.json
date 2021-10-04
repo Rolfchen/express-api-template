@@ -1,0 +1,14 @@
+{
+  "name": "express-api-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Rolfchen/express-api-template.git",
+  "author": "Rolf Chen <rolf@repeat.gg>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "server",
+    "frontend",
+    "components"
+  ]
+}
